@@ -16,6 +16,12 @@
 
 <br/>
 
+### 💻 Skills
+
+<p align='left'>
+  <img src='https://img.shields.io/badge/FRONTEND-FF9A9A?style=for-the-badge&logoColor=black' alt='Frontend' /><img src='https://img.shields.io/badge/BACKEND-FFF59D?style=for-the-badge&logoColor=black' alt='Backend' /><img src='https://img.shields.io/badge/RAG-A5D6A7?style=for-the-badge&logoColor=black' alt='RAG' /><img src='https://img.shields.io/badge/AI%20GENERATIVE-81D4FA?style=for-the-badge&logoColor=black' alt='AI Generative' />
+</p>
+
 ### 🛠️ Tech Stack & Herramientas
 
 <div align="center">
