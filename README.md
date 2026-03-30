@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hola, soy Armando Rivas 👋</h1>
+  <h1>Hola, soy Armando Rivas - rivascode.dev</h1>
   <p><b>Ingeniero en Sistemas | Frontend Developer | Especialista en GenAI & RAG</b></p>
   
   <p>Desarrollador enfocado en arquitecturas modernas, rendimiento y creación de interfaces eficientes. Actualmente implementando soluciones Frontend y desarrollando agentes conversacionales con inteligencia artificial.</p>
