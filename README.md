@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hola, soy Armando Rivas 👋</h1>
+  <p><b>Ingeniero en Sistemas | Frontend Developer | Especialista en GenAI & RAG</b></p>
+  
+  <p>Desarrollador enfocado en arquitecturas modernas, rendimiento y creación de interfaces eficientes. Actualmente implementando soluciones Frontend y desarrollando agentes conversacionales con inteligencia artificial.</p>
 
-<!--
-**rivascode-dev/rivascode-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div>
+    <a href="https://rivascode.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Portafolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Armando Rivas"/>
+    </a>
+    <a href="https://www.linkedin.com/in/rivascode/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Armando Rivas"/>
+    </a>
+  </div>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Herramientas
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,materialui,nodejs,express,postgres,mongodb,docker,git,figma,vscode" alt="Tech Stack"/>
+  </a>
+</div>
+
+### 🚀 Proyectos y Experiencia
+
+- **E-commerce Fullstack:** Arquitectura desarrollada con Next.js, bases de datos vectoriales (PostgreSQL con pgvector) y agentes de IA integrados mediante LangGraph.
+- **Asistentes RAG corporativos:** Desarrollo e implementación de ChatBox con tecnología RAG y modelos de lenguaje para plataformas médicas y de salud.
+- **EquilibrApp:** Aplicación web enfocada en métricas de bienestar con integración directa de la API de Google Gemini.
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rivascode-dev&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="Estadísticas de rivascode-dev" />
+</div>
+
+<div align='center'>
+  ![Estadísticas de rivascode-dev](https://github-readme-stats.vercel.app/api?username=rivascode-dev&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5)
+</div>
