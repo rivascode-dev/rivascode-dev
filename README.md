@@ -32,10 +32,8 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rivascode-dev&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="Estadísticas de rivascode-dev" />
-</div>
+<p align='center'>
+  <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rivascode-dev&theme=transparent&title_color=0077B5' alt='Resumen de rivascode-dev' />
+</p>
 
-<div align='center'>
-  ![Estadísticas de rivascode-dev](https://github-readme-stats.vercel.app/api?username=rivascode-dev&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5)
-</div>
+
